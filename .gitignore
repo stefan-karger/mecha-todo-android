@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+_reference/mecha-todo
+.scratch/
+
+*.jks
+keystore.properties
